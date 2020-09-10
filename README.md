@@ -1,4 +1,4 @@
-portfolio
+ui-framework
 ====
 A React framework for building Web application front-ends.
 
